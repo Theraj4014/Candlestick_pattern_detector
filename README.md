@@ -35,10 +35,10 @@ The Candlestick Pattern Detector is a Python-based project designed to detect va
 To use the Candlestick Pattern Detector, you need to have Python installed on your system along with the required dependencies. You can install the dependencies using pip:
 
 ## Project Structure
--candlestick_detector.py: Main script for detecting candlestick patterns.
--LICENSE.md: License file specifying the terms of use for the project.
--README.md: This file providing an overview of the project and instructions for usage.
--requirements.txt: File listing all the dependencies required to run the project.
+- candlestick_detector.py: Main script for detecting candlestick patterns.
+- LICENSE.md: License file specifying the terms of use for the project.
+- README.md: This file providing an overview of the project and instructions for usage.
+- requirements.txt: File listing all the dependencies required to run the project.
 ## License
 This project is licensed under the MIT License.
 
