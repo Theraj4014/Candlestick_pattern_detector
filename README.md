@@ -40,7 +40,7 @@ To use the Candlestick Pattern Detector, you need to have Python installed on yo
 - README.md: This file providing an overview of the project and instructions for usage.
 - requirements.txt: File listing all the dependencies required to run the project.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE.md).
 
 Contributors
 [Dhiraj Solanki]
